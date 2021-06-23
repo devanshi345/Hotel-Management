@@ -1,4 +1,4 @@
 # Hotel-Management
 
-## Made using concepts of Object Oriented Programming in Java.
-## Some concepts used - file handling, exception handling, inheritance, abstraction, multithreading.
+1)  Made using concepts of Object Oriented Programming in Java.
+2)  Some concepts used - file handling, exception handling, inheritance, abstraction, multithreading.
